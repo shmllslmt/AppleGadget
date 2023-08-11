@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public interface AppleDevice {
+public interface AppleDevice {
+    void connectToWiFi();
+    void sendData(String data);
+    void receiveData(String data);
 }

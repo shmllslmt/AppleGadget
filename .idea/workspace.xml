@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="413b3de2-30c9-4775-8db8-d222aeffd942" name="Changes" comment="" />
+    <list default="true" id="413b3de2-30c9-4775-8db8-d222aeffd942" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppleDevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppleDevice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppleGadgetNetwork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppleGadgetNetwork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Macbook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Macbook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iPad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/iPad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/iPhone.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2TpT1SN46THkAcs7S6G4NBqbzcf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,6 +38,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

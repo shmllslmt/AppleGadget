@@ -1,12 +1,12 @@
-public class iPhone implements AppleDevice {
+public class iPad implements AppleDevice {
     private String deviceName;
     private String model;
     private int storage;
 
-    public iPhone() {
-        this("iPhone", "SE", 64);
+    public iPad() {
+        this("iPad", "Air", 64);
     }
-    public iPhone(String deviceName, String model, int storage) {
+    public iPad(String deviceName, String model, int storage) {
         this.deviceName = deviceName;
         this.model = model;
         this.storage = storage;
